@@ -7,18 +7,25 @@ ul li{
     height: 50px;
     list-style-position: inside;
     list-style-type:"※";
+    
 }
 
 ul li a{
     text-decoration: none;
     color: black;
+    /* vertical-align: middle; */
+    
 }
 
 ul li:hover{
-    background-color:black;
+    background-color:rgb(37, 35, 35);
     color: white;
 }
 
 ul li a:hover{
     color: white;
 }
+
+
+
+
