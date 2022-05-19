@@ -1,0 +1,16 @@
+ul li{
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    padding: 0;
+    background-color: grey;
+    width: 10rem;
+    height: 3rem;
+    list-style-position: inside;
+    
+}
+
+ul li a{
+    text-decoration: none;
+    
+    
+}
