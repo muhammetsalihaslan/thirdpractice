@@ -1,16 +1,24 @@
 ul li{
     font-family: 'Roboto', sans-serif;
     text-align: left;
-    padding: 0;
+    /* padding: 0; */
     background-color: grey;
-    width: 10rem;
-    height: 3rem;
+    width: 150px;
+    height: 50px;
     list-style-position: inside;
-    
+    list-style-type:"※";
 }
 
 ul li a{
     text-decoration: none;
-    
-    
+    color: black;
+}
+
+ul li:hover{
+    background-color:black;
+    color: white;
+}
+
+ul li a:hover{
+    color: white;
 }
